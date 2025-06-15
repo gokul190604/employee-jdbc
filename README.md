@@ -1,2 +1,19 @@
-# employee-jdbc
-Employee Management System using Java JDBC Built a command-line employee management application using Java and JDBC. Implemented full CRUD operations with MySQL database connectivity. Practiced real-world JDBC concepts including prepared statements, exception handling, and database interaction.
+# Employee JDBC Management System
+
+A simple Java console-based application using JDBC to manage employee records in a MySQL database.
+
+## 💻 Features
+- Save employee details
+- Update employee fields (name, salary, phone, email)
+- Delete employee records by ID
+- Fetch all employees
+- Fetch a specific employee by ID
+
+## 🛠 Technologies Used
+- Java
+- JDBC
+- MySQL
+- Git
+
+## 📂 Project Structure
+
