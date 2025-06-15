@@ -15,5 +15,5 @@ A simple Java console-based application using JDBC to manage employee records in
 - MySQL
 - Git
 
-## 📂 Project Structure
+
 
